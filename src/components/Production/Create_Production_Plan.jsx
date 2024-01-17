@@ -99,7 +99,7 @@ const validar = (values) => {
         <div className=" col s12 m12 l12 top-top-banner"></div>
         <div className="col s12 m12 l12 top-banner"></div>
       </div>
-      {/* ---------------------------------------Banner Titlee------------------- */}
+      {/* ---------------------------------------Banner Title------------------- */}
       <div className="row">
         <div className="col s12 m12 l12 title-banner z-depth-2">
           <div className="container">
