@@ -1,0 +1,32 @@
+/* ---------------------- BANNER------------------*/
+
+.title-banner-edit-mode
+{   
+  background:rgba(238, 238, 238, 1);
+  border-top-style: solid;
+  border-top-width: 1.5px;
+  border-top-color: rgba(228, 0, 43, 1);
+  border-bottom-style: solid;
+  border-bottom-width: 1.5px;
+  border-bottom-color: rgba(228, 0, 43, 1);
+}
+/* ----------------------BOTTONS------------------*/
+
+.button-regresar-edit-batch{
+    border-radius: 5px 5px 5px 5px;
+    background-color:rgba(151, 151, 155, 1)!important;
+    border:solid rgba(95, 99, 104, 1) 1px !important;
+    margin-top: 15px;
+  }
+  .button-erase-batch{
+    border-radius: 5px 5px 5px 5px;
+    background-color:rgba(228, 0, 43, 1)!important;
+    border:solid rgba(95, 99, 104, 1) 1px !important;
+    margin-top: 15px;
+  }
+  .button-continue-edit-batch{
+    border-radius: 5px 5px 5px 5px;
+    background-color:rgba(151, 151, 155, 1)!important;
+    border:solid rgba(95, 99, 104, 1) 1px !important;
+    margin-top: 15px;
+  }

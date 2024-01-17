@@ -1,0 +1,38 @@
+
+.partiality-box{
+    background: red;
+    height:250px;
+    border-radius:5px 5px 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(140, 141, 142);
+  }
+
+  .partiality-box{
+    background-color:rgb(255, 255, 255);
+    border-radius:14px 14px 14px 14px;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 10px;
+    border-color: rgb(140, 141, 142);
+    height:130px; 
+    width: auto
+    /* display: block; */
+    /* margin-top: -5px; */
+  }
+  .partiality-text{
+    color:rgb(0, 0, 0)!important;
+    font-family: 'roboto'!important;
+    font-weight: 480 !important;
+    font-size:100px !important;
+    margin-top:25px!important;
+    margin-bottom: -50px !important;
+    line-height:auto !important;
+    height: 80px !important;
+    width: fit-content;
+    overflow: 'auto'!important;
+    /* padding-right: -200px !important; */
+    
+  }
+
+  

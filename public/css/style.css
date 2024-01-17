@@ -1,0 +1,433 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700,700italic,900,900italic,300italic,300,100italic,100);
+
+
+ /* Define el titulo de los formularios */
+
+ .form-tittle{
+  color: #ffffff;
+  font-family: "Roboto";
+  font-style:normal;
+  font-weight:bold;
+  font-size: 23px;
+ }
+ /* Define el titulo de los labels en formularios */
+ .label-text{
+  color: #97999B;
+  font-family: "Roboto";
+  font-style:normal;
+  font-weight:400;
+  font-size: 12px;
+ }
+ /* Define el background de los formularios */
+ .forms{
+  background-color: #ffffff;
+  padding-top: 30px;
+  padding-right: 35px;
+  padding-left: 35px; 
+  padding-bottom: 12px;
+  border-radius: 20px 20px 20px 20px;
+ }
+ .form-register{
+  height: auto;
+  background-color: #ffffff;
+  padding-top: 30px;
+  padding-right: 35px;
+  padding-left: 35px; 
+  padding-bottom: 100px;
+  border-radius: 20px 20px 20px 20px;
+ }
+ /* Define el contenedor de los botones */
+ .form-buttons{
+  padding-right: 20px; 
+  padding-left:20px;
+  border-radius: 20px 20px 20px 20px;
+  
+ }
+  
+/* label underline focus color */
+.input-field input[type=password]:focus {
+  border-bottom: 1px solid #E4002B !important;
+  box-shadow: 0 1px 0 0 #E4002B !important;
+}
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #E4002B !important;
+  box-shadow: 0 1px 0 0 #E4002B !important;
+}
+.input-field input[type=email]:focus {
+  border-bottom: 1px solid #E4002B !important;
+  box-shadow: 0 1px 0 0 #E4002B !important;
+}
+
+
+ /* Define el texto de los warnings en los inputs de los formularios */
+.warning-inputs {
+    color: #E4002B;
+    font-family: "Roboto"; 
+    font-style:normal;
+    font-weight:400;
+    font-size: 12px;
+  }
+/* Define el texto de los WARNINGS en los formularios */
+.warning-form {
+  color: #E4002B;
+  font-family: "Roboto"; 
+  font-style:normal;
+  font-weight:800;
+  font-size: 12px;
+}
+/* Define el texto SUCCESS en el RECOVERY PASSWORD  */
+.success-form {
+  color: #44693D;
+  color: #789D4A;
+  font-family: "Roboto"; 
+
+  font-weight:500;
+  font-size: 14px;
+}
+/* Define posicion y tamaño del icono WARNING */
+.resize-icon-warning{
+  font-size: 17px;
+  position: relative;
+  top: 2px;
+  right: 5px;
+}
+.resize-icon-warning-2{
+  font-size: 32px;
+  position: relative;
+  top: 2px;
+  right: 5px;
+}
+/* Define posicion y tamaño del icono WARNING */
+.resize-icon-priority{
+  color: #44693D;
+  color: #789D4A;
+  font-size: 17px;
+  position: relative;
+  top: 2px;
+  right: 5px;
+}
+/* Define el texto de las acciones en los formularios */
+  .accion-text {
+    color: #E4002B;
+    color: #63666A;
+    font-family: "Roboto", sans-serif; 
+    font-style:normal;
+    font-weight:800;
+    font-size: 12px;
+  }
+  /* Define el Color de los iconons cuando estan activos */
+  i.material-icons.prefix.active {
+    color: #E4002B;
+}
+ /* Define botones rojos */
+.red-rheem{
+  border-radius: 5px 5px 5px 5px;
+  background-color: #E4002B !important;
+}
+ /* Define botones grises */
+.grey-rheem{
+  border-radius: 5px 5px 5px 5px;
+  background-color: #97999B !important;
+  background-color: #63666A !important;
+}
+/* --------------------------------------------NAVBAR-----------------------------------------*/
+
+.hovering-hand{
+  background-color: rgba(75, 73, 73, 0.5);
+  border-radius:4px;
+  color: rgb(255, 255, 255);
+  position:absolute;
+  font-size:11px;
+  line-height:17px;
+  padding: 8px;
+  margin-top: 75px;
+  margin-left:1030px;
+  z-index: 1;
+  
+}
+.hover-hand{
+  cursor:pointer;
+}
+
+/* Define caracteristicas del avatar en la nav */
+.avatar-nav {
+  cursor:pointer;
+  object-fit: cover;
+  border-radius: 50%;
+  height: 45px;
+  width: 45px;
+}
+
+/* Define tamaño y posicion del logo de la Navbar */
+.logo-img { 
+  max-height:55px;
+  position:absolute;
+  top: 0; bottom: 0; 
+  margin: auto;
+}
+.nav-wrapper{
+  background-color: rgb(255, 255, 255) !important;
+ }
+nav {
+  height:70px;
+  /* line-height: 30px; */
+} 
+.nav-font{
+  color:rgba(95, 99, 104, 1)!important;
+  font-family: 'Roboto';
+  font-weight: 405;
+  font-style: normal;
+  font-size: 14px;
+}
+.nav-font-rms{
+  color: #E4002B !important;
+  font-family: 'Roboto';
+  font-weight: 405;
+  font-style: normal;
+  font-size: 14px;
+}
+
+.dropdown-font{
+  filter: alpha(opacity=100);
+  color:rgba(95, 99, 104, 1)!important;
+  font-family: 'Roboto';
+  /* font-family:"Calibri", sans-serif; */
+  font-weight:400;
+  font-style: normal!important;
+  font-size: 13px!important;
+  
+}
+
+.dropdown-content{
+  background-color: #FFFFFF;
+  margin: 0;
+  display: none;
+  min-width:fit-content; /* Changed this to accomodate content width */
+  max-height: auto;
+  margin-left: -1px; /*Add this to keep dropdown in line with edge of navbar */
+  overflow: hidden; /* Changed this from overflow-y:auto; to overflow:hidden; */
+  opacity: 1 !important;
+  position: absolute;
+  white-space: nowrap;
+  z-index:1;
+  will-change: width, height;
+  top: 100% !important;
+}
+.dropdown-content-side{
+  background-color: #FFFFFF;
+  margin: 0;
+  display: none;
+  min-width:fit-content; /* Changed this to accomodate content width */
+  max-height: auto;
+  margin-left: -1px; /*Add this to keep dropdown in line with edge of navbar */
+  overflow: hidden; /* Changed this from overflow-y:auto; to overflow:hidden; */
+  opacity: 1 !important;
+  position: absolute;
+  white-space: nowrap;
+  z-index:2;
+  will-change: width, height;
+  top:0% !important;
+}
+
+
+.left-dropdown{
+margin-left:100px;
+}
+.margin-top{
+  margin-top: 4px;
+}
+/* .stop-flicking{
+  margin-top: 100px;
+} */
+/* ------------------------------------------SIDENAV------*/
+/* Elimina el Disable del Sidenav*/
+.navbar-fixed {
+  z-index: 999; 
+  height:80px;
+}
+
+
+
+/* ------------------------------------------LANDING/HOME BACKGROUND------*/
+.background-landing-home{
+  background-image:
+ /* url("https://static-rheem.globalimageserver.com/_WP/img/careers/fort-smith-ark-01.png");  */
+ url("https://www.xtrafondos.com/wallpapers/carretera-de-anochecer-nubes-y-bosque-3040.jpg");
+  /* url("https://materializecss.com/images/parallax2.jpg"); */
+  /* url("https://www.xtrafondos.com/wallpapers/carretera-en-el-campo-2517.jpg"); */
+    background-size:cover;
+    z-index: -1;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    
+ }
+ /* ------------------------------------------SIGN IN BACKGROUND------*/
+.background-signin{
+  background-image: 
+  /* url("https://static-rheem.globalimageserver.com/_WP/img/careers/fort-smith-ark-01.png"); */
+  /* url("https://www.xtrafondos.com/wallpapers/carretera-en-el-campo-2517.jpg"); */
+  url("https://www.xtrafondos.com/wallpapers/carretera-de-anochecer-nubes-y-bosque-3040.jpg");
+    background-size:cover;
+    z-index: -1;
+    background-position: center;
+    background-repeat: no-repeat;
+ }
+
+
+/* -------------------------------------------- HOME / LANDING ---------------------*/
+
+/* Define estilo de titulo de bienvenida */
+.welcome-tittle-white{
+  color: #ffffff;
+  font-family: "Roboto";
+  font-style:normal;
+  font-weight:bold;
+  font-size: 64px;
+  margin-bottom: -10px;
+ }
+
+ .red-font{
+  color:rgba(228, 0, 43, 1);
+  font-family: "Roboto";
+  font-style:normal;
+  font-weight:bold;
+  font-size: 64px;
+  margin-top: -10px;
+  display:inline;
+  
+ }
+ .grey-font{
+  color: #ffffff;
+  font-family: "Roboto";
+  font-style:normal;
+  font-weight:bold;
+  font-size: 64px;
+  margin-top: -10px;
+  display:inline;
+ }
+ .welcome-tittle-white-mobile{
+  color: #ffffff;
+  font-family: "Roboto";
+  font-style:normal;
+  font-weight:bold;
+  font-size: 50px;
+  margin-bottom: -8px;
+ }
+
+ .red-font-mobile{
+  color:rgba(228, 0, 43, 1);
+  font-family: "Roboto";
+  font-style:normal;
+  font-weight:bold;
+  font-size:50px;
+  margin-top: -8px;
+  display:inline;
+  
+ }
+ .grey-font-mobile{
+  color: #ffffff;
+  font-family: "Roboto";
+  font-style:normal;
+  font-weight:bold;
+  font-size: 50px;
+  margin-top: -8px;
+  display:inline;
+ }
+ .padding-logobanner-home-large{
+  padding-top: 250px;
+  margin-bottom: 0px;
+ }
+ .padding-logobanner-home-ms{
+  padding-top: 60px;
+ }
+ .padding-banner-user{
+  padding-top: 250px;
+ }
+ .padding-sign-in-large{
+  padding-top:107px;
+ }
+
+ .padding-sign-in-ms{
+  padding-top:120px;
+ }
+ 
+ .logo-home-mobil{
+   max-width:180px;
+   padding-top: 80px;
+   z-index: 2;
+  }
+  .choose_profile{
+    color: #ffffff;
+    font-family: "Roboto";
+    font-style:normal;
+    font-weight:bold;
+    font-size: 16px;
+    margin-top: -8px;
+    display:inline;
+    
+  }
+  
+  /* --------------------------------------------FOOTER ------------------*/
+
+  .fit-screen{
+    width: inherit;
+    height: inherit;
+  }
+  .legal-footer{
+    color: #ffffff;
+    font-family:"Calibri", sans-serif;
+    font-style:normal;
+    font-weight:300;
+    font-size: 13px;
+    word-spacing: 1px;
+  }
+  .padding-footer-large{
+     padding-top: 126px;
+     /* padding-top: 140px; */
+     padding-bottom: 64px;
+    }
+  .padding-footer-ms{
+      padding-top:20px;
+      padding-bottom:5px;
+      padding-left: 15px;
+      padding-right: 15px;
+     }
+
+ 
+    
+  
+  
+  
+ 
+ /* Determina el espacio entre P y P horizontalmente */
+ .p-spacing {
+  margin-top: -15px;
+ }
+.italic {
+  font-style:italic;
+}
+/* Evita el salto de Linea */
+.en-linea{
+  display:inline;
+ }
+
+/* Covierte una imagen en un file upload */
+/* .image-upload>input {
+  display: none;
+} */
+
+/* .row-margin-bottom{
+  margin-bottom: 0px !important;
+} */
+
+.btn-block {
+  width: 100%;
+  padding: 0px;
+}
+
+
+
+
+
+

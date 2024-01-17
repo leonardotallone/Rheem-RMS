@@ -1,0 +1,204 @@
+
+
+/* ---------------------- BANNER------------------*/
+
+.title-banner{
+  background:rgba(238, 238, 238, 1);
+  border-top: solid rgba(151, 151, 151, 1) 1px;
+  border-bottom: solid rgba(151, 151, 151, 1) 1px;
+}
+.font-title-create-batch{
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-style: normal;
+  font-size: 41px;
+  margin-top: 10px;
+  line-height:50px;
+  margin-bottom: 10px;
+}
+.font-subtitle-create-batch{
+  margin-top:-10px;
+  color:#63666A;
+  font-family: 'Roboto';
+  font-weight: 480;
+  font-style: normal;
+  font-size: 14px;
+  
+}
+.font-form-create-batch{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-style: normal;
+    font-size: 36px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+  }
+.font-plan-create-batch{
+    margin-top:-10px;
+    color:#63666A;
+    font-family: 'Roboto';
+    font-weight: 480;
+    font-style: normal;
+    font-size: 14px;
+    
+  }
+  .font-date-create-batch{
+    margin-top:-10px;
+    color:#63666A;
+    font-family: 'Roboto';
+    font-weight: 480;
+    font-style: normal;
+    font-size: 14px;
+  }
+
+.qr{
+  max-height: 42px ;
+  margin-top:20px;      
+}
+.print{
+    font-size: 41px;
+    margin-top: 10px;
+    margin-bottom:20px;
+    color: #464647 !important;    
+  }
+
+/* ---------------------- FORM------------------*/
+
+.form-title{
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size:18px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left:4px;
+}
+.display-box{
+    color: rgba(49, 49, 68, 1);
+    font-family: 'Poppins';
+    font-weight: 480 !important;
+    font-size:12px;
+    height: 45px;
+    border-radius: 8px 8px 8px 8px;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 10px;
+    border-color: rgb(140, 141, 142);
+    margin-top:-5px;
+}
+
+.observaciones-create-batch{
+  color: rgba(49, 49, 68, 1);
+  font-family: 'Poppins';
+  font-weight: 480;
+  font-size:12px;
+  height: 127px;
+  border-radius: 8px 8px 8px 8px;
+  border-style: solid;
+  border-width: 1px;
+  border-color:rgb(140, 141, 142);
+  margin-top:-5px;
+  padding-left: 10px;
+
+}
+
+.vigencia-create-batch{
+  color: rgba(49, 49, 68, 1);
+  font-family: 'Poppins';
+  font-weight: 480;
+  font-size:12px;
+  height:45px;
+  border-radius: 8px 8px 8px 8px;
+  border-style: solid;
+  border-width: 1px;
+  border-color:rgb(140, 141, 142);
+  /* margin-top:-5px; */
+  padding-left: 10px;
+
+}
+.conditional-background{
+  background-color: rgba(240, 240, 240, 1)
+}
+.add-file{
+  color:#63666A;
+  font-size:36px;
+}
+.no-margin{
+  padding-left:0!important;
+  padding-right:0!important;
+}
+
+.display-box-title{
+  color:#63666A;
+  font-family: 'Roboto';
+  font-weight: 480;
+  font-style: normal;
+  font-size: 14px;
+  margin-top:12px;
+}
+
+/* Edita el selector */
+.browser-default{
+  color: rgba(49, 49, 68, 1);
+  font-family: 'Poppins';
+  height: auto;
+  font-weight: 480;
+  font-size:12px;
+ 
+  background: #ffffff00;
+  margin-left: -15px;
+  border: none !important;
+}
+
+
+/* botones */
+
+.button-regresar-create-batch{
+  border-radius: 5px 5px 5px 5px;
+  background-color:rgba(151, 151, 155, 1)!important;
+  border:solid rgba(95, 99, 104, 1) 1px !important;
+  margin-top: 15px;
+
+
+}
+.button-ingresar-create-batch{
+  border-radius: 5px 5px 5px 5px;
+  background-color:rgba(228, 0, 43, 1)!important;
+  border:solid rgba(95, 99, 104, 1) 1px !important;
+  margin-top: 15px;
+
+}
+
+.input-field-batch-lote{
+  color: rgba(49, 49, 68, 1);
+  font-size: 12px !important;
+  font-family: 'Poppins'!important;
+  font-weight: 480 !important;
+  font-style: normal!important;
+  border: none!important;
+  outline: none!important;
+  padding-left: -5px!important;
+  padding-right: -5px!important;
+  padding-top: 0px!important;
+  margin-top: 6px !important;
+  margin-left: -5px !important;
+  margin-right: 10px !important;
+}
+.input-field-batch-descripcion{
+  color: rgba(49, 49, 68, 1);
+  font-size: 12px !important;
+  font-family: 'Poppins'!important;
+  font-weight: 480 !important;
+  font-style: normal!important;
+  border: none!important;
+  outline: none!important;
+  padding-left: -5px!important;
+  padding-right: -5px!important;
+  padding-top: 0px!important;
+  margin-top: 6px !important;
+  margin-left: -5px !important;
+  margin-right: 10px !important;
+}
+ .margin-description {
+ padding-top: 12px;
+ }

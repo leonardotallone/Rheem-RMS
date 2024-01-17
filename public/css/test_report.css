@@ -1,0 +1,95 @@
+.title-test-report{
+    color:black;
+    font-family: 'Roboto';
+    font-weight: 480;
+    font-style: normal;
+    font-size: 14px;
+    margin-top:12px;
+    margin-bottom:0px;
+
+  }
+  .key-text-test-report{
+    color:rgb(87, 87, 87);
+    font-family: 'Roboto';
+    font-weight: 480;
+    font-style: normal;
+    font-size: 12px;
+    margin-top:12px;
+    margin-bottom:0px;
+    display: flex;
+   
+  }
+  .value-text-test-report{
+    color:rgb(0, 0, 0);
+    font-family: 'Roboto';
+    font-weight: 480;
+    font-style: normal;
+    font-size: 12px;
+    margin-top:12px;
+    margin-bottom:0px;
+    display: flex;
+    
+  }
+  .observaciones-previas-test-report{
+    color: rgba(49, 49, 68, 1);
+    font-family: 'Poppins';
+    font-weight: 480;
+    font-size:12px;
+    height: 160px;
+    border-radius: 8px 8px 8px 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:rgb(140, 141, 142);
+    margin-top:-5px;
+    padding-left: 10px;
+  }
+  .etiquetas-muestras{
+    width: auto;
+    height: 25px;
+    border-radius: 3.5px 3.5px 3.5px 3.5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:rgb(140, 141, 142);
+    margin-top:5px;
+    margin-left:12px !important;
+  }
+  .text-inside-test-report{
+    color:black;
+    font-family: 'Roboto';
+    font-weight: 480;
+    font-style: normal;
+    font-size: 10px;
+    margin-top:6px;
+    margin-bottom:0px;
+  }
+  .text-outside-test-report{
+    color:black;
+    font-family: 'Roboto';
+    font-weight: 480;
+    font-style: normal;
+    font-size: 12px;
+    margin-top:8px;
+    margin-bottom:0px;
+    margin-left:-3px;
+  }
+  .text-serial-test-report{
+    color:black;
+    font-family: 'Roboto';
+    font-weight: 480;
+    font-style: normal;
+    font-size: 12px;
+    margin-top:-20px;
+    margin-bottom:0px;
+  }
+  .rechazada{
+    background-color:rgba(228, 0, 43, 1);
+  }
+  .aprobada {
+    background-color:rgba(187, 214, 155, 1);
+  }
+  .no-testing {
+    background-color:rgb(255, 255, 255)
+  }
+  .observada {
+    background-color:rgba(255, 193, 48, 1)
+  }

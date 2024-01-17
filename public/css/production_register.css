@@ -1,0 +1,103 @@
+.add_circle-red{
+    color: rgba(228, 0, 43, 1);
+    margin-top: 10px;
+    font-size:25px;
+    padding-right:18px;
+}
+.remove_circle-red{
+  color: rgba(228, 0, 43, 1);
+  margin-top: 10px;
+  font-size:25px;
+  padding-right:8px;
+}
+.add_circle-green{
+  color: rgb(29, 107, 31);
+  margin-top: 10px;
+  font-size:25px;
+  padding-right:18px;
+}
+.remove_circle-green{
+  color: rgb(29, 107, 31);
+  margin-top: 10px;
+  font-size:25px;
+  padding-right:8px;
+}
+
+.display-box-production-register{
+    width: auto;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(140, 141, 142);
+    margin-top:5px;
+  }
+  .display-box-production-register-red{
+    width: auto;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(228, 0, 43, 1);
+    margin-top:5px;
+  }
+  .display-box-production-register-green{
+    width: auto;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(130, 154, 101);
+    margin-top:5px;
+  }
+  .background-grey{
+    background-color: #e5e5e7;
+  }
+  .background-light-blue{
+    background-color:rgba(135, 180, 254, 1)
+  }
+  .text-production-register{
+    font-family: 'Poppins';
+    font-weight: 480;
+    font-size:12px;
+    margin-top: 8px;
+  }
+  .text-production-register-totales{
+    font-family: 'Poppins';
+    font-weight: 520;
+    font-size:12px;
+    margin-top: 8px;
+  }
+ 
+  .title-production-register{
+    color:#63666A;
+    color:  black;
+    font-family: 'Roboto';
+    font-weight: 480;
+    font-style: normal;
+    font-size: 12px;
+  }
+ 
+
+.inputfield{
+  font-size: 13px !important;
+  font-family: 'Roboto'!important;
+  font-style: normal!important;
+  border: none!important;
+  outline: none!important;
+  padding-left: 35px!important;
+  padding-top: -20px!important;
+  margin-top: -5px !important;
+  width:45px !important;
+}
+
+
+
+
+
+
+
+  
+ 
+  
+

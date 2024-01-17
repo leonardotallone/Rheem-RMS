@@ -1,0 +1,47 @@
+.add-file-ingenieria{
+    color:#63666A;
+    font-size:50px;
+  }
+
+  .input-field-disping-lote{
+    color: rgba(49, 49, 68, 1);
+    font-size: 12px !important;
+    font-family: 'Poppins'!important;
+    font-weight: 480 !important;
+    font-style: normal!important;
+    border: none!important;
+    outline: none!important;
+    padding-left: 10px!important;
+    padding-top: -20px!important;
+    margin-top: -1.5px !important;
+    margin-left: 10px !important;
+    width:100px !important;
+  }
+  .input-field-disping-sku{
+    color: rgba(49, 49, 68, 1);
+    font-size: 12px !important;
+    font-family: 'Poppins'!important;
+    font-weight: 480 !important;
+    font-style: normal!important;
+    border: none!important;
+    outline: none!important;
+    padding-left: 10px!important;
+    padding-top: -20px!important;
+    margin-top: -1.5px !important;
+    margin-left: 10px !important;
+    width:100px !important;
+  }
+  .input-field-disping-id{
+    color: rgba(49, 49, 68, 1);
+    font-size: 12px !important;
+    font-family: 'Poppins'!important;
+    font-weight: 480 !important;
+    font-style: normal!important;
+    border: none!important;
+    outline: none!important;
+    padding-left: 10px!important;
+    padding-top: -20px!important;
+    margin-top: -1.5px !important;
+    margin-left: 10px !important;
+    width:180px !important;
+  }

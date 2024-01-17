@@ -1,0 +1,95 @@
+.etiqueta-aluminio{
+   /* width: 75mm !important; */
+    height:140mm !important;
+    border-radius: 8px 8px 8px 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(140, 141, 142);
+  }
+  .etiqueta-aluminio-mexico{
+     width: 140mm !important;
+     height:77mm !important;
+     border-radius: 8px 8px 8px 8px;
+     border-style: solid;
+     border-width: 1px;
+     border-color: rgb(140, 141, 142);
+     
+   }
+.margin-logo-etiqueta-aluminio{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+.margin-logo-rheem-etiqueta-aluminio{
+    margin-top: 10px !important;
+    margin-left: 60px !important;
+}
+.margin-logo-splendid-fc-etiqueta-aluminio{
+    margin-top: 4px !important;
+    margin-left: 40px !important;
+}
+
+.texto-chico-etiqueta-aluminio{
+    color: rgb(0, 0, 0);
+    font-family: 'standard', sans-serif;
+    font-weight: 10px !important;
+    font-size:13px;
+    width:max-content;
+    margin-top: -5px !important;
+}
+.texto-mediano-etiqueta-aluminio{
+    color: rgb(0, 0, 0);
+    font-family: 'standard', sans-serif;
+    font-weight: 500 !important;
+    font-size:13px;
+    width:max-content;
+    margin-top: -5px !important;
+}
+.texto-grande-etiqueta-aluminio{
+    color: rgb(0, 0, 0);
+    font-family: 'standard', sans-serif;
+    font-weight: 500 !important;
+    font-size:15px;
+    width:max-content;
+    margin-top: -5px !important;
+    
+}
+
+
+/* MEXICO */
+
+.texto-titulo-mexico{
+    color: rgb(0, 0, 0);
+    font-family: 'roboto'!important;
+    font-weight:520 !important;
+    font-size:20px;
+    font-weight: 500px !important;
+   
+    margin-top: 7px !important;
+    margin-bottom: 0px !important;
+}
+
+.value-mexico{
+    color: rgb(0, 0, 0);
+    font-family: 'roboto'!important;
+    font-weight:520 !important;
+    font-size:13px;
+    line-height: 0px;
+    font-weight: 500px !important;
+    
+    margin-top: 7px !important;
+    margin-bottom: -5px !important;
+    line-height: 17px;
+    
+}
+.key-mexico{
+    color: rgb(0, 0, 0);
+    font-family: 'standard', sans-serif;
+    font-weight: 500 !important;
+    font-size:13px;
+    padding-left: 10px !important;
+
+    margin-top: 7px !important;
+    margin-bottom: -5px !important;
+    line-height: 17px;
+}
+

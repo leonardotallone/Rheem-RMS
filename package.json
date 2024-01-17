@@ -1,0 +1,61 @@
+{
+  "name": "rheem-rms-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@react-pdf/renderer": "^3.1.12",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.4.0",
+    "base-64": "^1.0.0",
+    "buffer": "^6.0.3",
+    "formik": "^2.4.1",
+    "html2canvas": "^1.4.1",
+    "i": "^0.3.7",
+    "jquery": "^3.7.0",
+    "jquery-ui-bundle": "^1.12.1-migrate",
+    "jspdf": "^2.5.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "nodemon": "^2.0.22",
+    "npm": "^9.8.1",
+    "react": "^18.2.0",
+    "react-barcode": "^1.4.6",
+    "react-countdown": "^2.3.5",
+    "react-currency-input-field": "^3.6.11",
+    "react-dom": "^18.2.0",
+    "react-native-base64": "^0.2.1",
+    "react-pdf": "^7.1.2",
+    "react-router": "^6.12.1",
+    "react-router-dom": "^6.12.1",
+    "react-scripts": "5.0.1",
+    "reactjs-popup": "^2.0.5",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

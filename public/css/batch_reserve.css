@@ -1,0 +1,20 @@
+
+
+.title-banner-batch-reserve
+{   
+  background:rgba(238, 238, 238, 1);
+  border-top-style: solid;
+  border-top-width: 1.5px;
+  border-top-color: rgba(225, 163, 37, 1);
+  border-bottom-style: solid;
+  border-bottom-width: 1.5px;
+  border-bottom-color: rgba(225, 163, 37, 1);
+}
+.reserve-status{
+    color:rgba(228, 0, 43, 1);
+}
+
+/* MEDIUM-SMALL-VIEW */
+
+
+

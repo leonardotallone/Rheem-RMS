@@ -1,0 +1,89 @@
+.display-box-userlist{
+    min-height: 45px;
+    max-height:fit-content;
+    background-color: rgb(240, 240, 240);
+
+    border-radius: 8px 8px 8px 8px;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 10px;
+    border-color: rgb(140, 141, 142);
+    margin-top:-5px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:10px;
+  }
+  .display-box-userlist-locked {
+    min-height: 45px;
+    max-height:fit-content;
+    background-color: rgb(240, 240, 240);
+
+    border-radius: 8px 8px 8px 8px;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 10px;
+    border-color: rgba(228, 0, 43, 1);
+    margin-top:-5px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:10px;
+  }
+
+  .title-userlist{
+    color:rgba(95, 99, 104, 1);
+    font-family: 'Poppins';
+    font-weight: 480 !important;
+    font-size:11px;
+    /* display:inline; */
+    /* margin-top:15px;
+    margin-bottom: 5px;
+     */
+     margin-bottom:-5px;
+  }
+  .subtitle-userlist{
+    color:black;
+    font-family: 'Poppins';
+    font-weight:520 !important;
+    font-size:13px;
+    /* display:inline; */
+    margin-top:8px;
+    margin-bottom:-5px;
+  }
+  .eye-userlist{
+    /* margin-top: -5px; */
+    margin-left:30px;
+    font-size: 30px;
+    color:rgba(228, 0, 43, 1);
+  }
+
+  .avatar-userlist {
+    cursor:pointer;
+    object-fit: cover;
+    border-radius: 50%;
+    height:65px;
+    width:65px;
+  }
+  .avatar-userlist-pad {
+    cursor:pointer;
+    object-fit: cover;
+    border-radius: 50%;
+    height:110px;
+    width:110px;
+    margin-top:13px;
+    margin-bottom:13px;
+    margin-left: 5px;
+  }
+.margin-unlock{
+  margin-top: 5px;
+  margin-left: -28px;
+}
+.grey-unlock{
+  fill: rgb(203, 203, 203);
+}
+.hover-hand-none{
+  cursor:default !important;
+}
+.margin-topIcon{
+  margin-top: 5px;
+  
+}

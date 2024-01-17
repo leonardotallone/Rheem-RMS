@@ -1,0 +1,23 @@
+.limites{
+    background-color:rgba(187, 214, 155, 1) ;
+  }
+  .nominal{
+    background-color:rgba(135, 180, 254, 1)
+  }
+  .alerta{
+    background-color:rgba(255, 193, 48, 1) ;
+  }
+
+
+  .display-box-test-setup{
+    width: auto;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(140, 141, 142);
+    margin-top:15px;
+  }
+  ::placeholder {
+    color: #606060;
+  }

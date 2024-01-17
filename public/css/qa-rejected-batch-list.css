@@ -1,0 +1,155 @@
+
+
+/*----------------------------------------Batch */
+/* ******** CONTENEDOR ***********/
+
+.display-box-batchs-rejected{
+  height:261px;
+  border-radius:5px 5px 5px 5px;
+  border-style: solid;
+  border-width: 1.3px;
+  border-color:  #E4002B;
+}
+/* ******** CAJAS LATERALES ***********/
+.box-left-rejected{
+  height:261px;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-color: #E4002B;
+}
+.box-right-rejected{
+  height:261px;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-color:  #E4002B;
+}
+  .top-line-vigencia-rejected{
+    line-height:10px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-color: #E4002B;
+    margin:0px !important;
+  }
+  .right-line-title-rejected{
+    border-color: #E4002B;
+    border-right-style: solid;
+    border-right-width: 1px;
+  
+  }
+  .bottom-line-rejected{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color:  #E4002B;
+  }
+  .right-line-sub-title-rejected{
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-color:#E4002B;
+  }
+  .bottom-line-sub-title-rejected{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color:#E4002B;
+  }
+  .bottom-line-observaciones-rejected{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #E4002B;
+  }  
+
+  .bottom-line-observaciones-rejected{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-color:#E4002B;;
+  }  
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* *********** MEDIUM-SMALL-VIEW ***********/
+
+   .display-box-batchs-ms-rejected{
+    height:550px;
+    border-radius:5px 5px 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #E4002B;
+  }
+  /* ******** CAJAS LATERAL Y SUPERIOR MS ***********/
+.box-left-ms-rejected{
+  
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #E4002B;
+  height: 90px;
+}
+.top-box-ms-rejected{
+  
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color:  #E4002B;
+  height: 90px;
+}
+
+
+
+ /* ******** LINEAS VERTICALES Y HORIZONTALES MS ***********/
+
+.right-line-title-ms-rejected{
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-color:  #E4002B;
+}
+.bottom-line-ms-rejected{
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color:  #E4002B;
+}
+.titles-ms-rejected{
+  color: #E4002B;
+  font-family: 'Roboto';      
+  font-weight:500 !important;
+  font-size:14px;
+  line-height:30px;
+}
+.titles-ms-hm-rejected{
+  color: #E4002B;
+  font-family: 'Roboto';      
+  font-weight:500 !important;
+  font-size:14px;
+  line-height:61px;
+}
+.titles-ms-hs-rejected{
+  color: #E4002B;
+  font-family: 'Roboto';      
+  font-weight:500 !important;
+  font-size:14px;
+  line-height:30.4px;
+}
+/* ******** SUB-TITULOS ***********/
+
+.right-line-sub-title-ms-rejected{
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-color: #E4002B;
+}
+.bottom-line-sub-title-ms-rejected{
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #E4002B;
+}
+
+

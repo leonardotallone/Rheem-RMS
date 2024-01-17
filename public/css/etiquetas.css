@@ -1,0 +1,24 @@
+.margin-logo{
+    margin-top: 20px;
+}
+.p-etiquetas {
+    margin: 0px;
+  }
+ .svg-etiquetas {
+    margin-top: 0px;
+  }
+  .as-block{
+    display:block;
+  }
+  .margin-fecha{
+    margin-top: 65px;
+  }
+
+  .margin-cero-p-etiquetas{
+    /* margin-top: 0px; */
+    margin-bottom: 3px;
+  }
+
+.titulo-brasil{
+  margin-top: 20px;
+}

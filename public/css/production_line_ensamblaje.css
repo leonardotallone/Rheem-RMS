@@ -1,0 +1,26 @@
+.no-leak{
+    color: green;
+    font-size: 24px;
+    
+}
+
+.ensamblaje-box{
+    background-color:rgb(255, 255, 255);
+    border-radius:14px 14px 14px 14px;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 10px;
+    border-color: rgb(140, 141, 142);
+    height:200px; 
+    width: auto;
+    /* display: block; */
+    margin-top: -5px;
+  }
+  .ensamblaje-text{
+    color:rgb(0, 0, 0);
+    font-family: 'roboto';
+    font-weight: 480 !important;
+    font-size:70px;
+    margin-top:50px
+    
+  }

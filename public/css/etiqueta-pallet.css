@@ -1,0 +1,64 @@
+.linea-derecha-pallet{
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-color: rgb(140, 141, 142);
+  }
+  .linea-baja-pallet{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: rgb(140, 141, 142);
+  }
+  .bkg-pallet{
+    background-color: rgb(222, 222, 222);
+  }
+
+  .big-font-pallet{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-style: normal;
+    font-size: 41px;
+    margin-top: 10px;
+    line-height:50px;
+    margin-bottom: 10px;
+  }
+  .serie-font-pallet{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-style: normal;
+    font-size: 28px;
+    margin-top: 10px;
+    line-height:28px;
+    margin-bottom: 10px;
+  }
+  .desde-hasta-font-pallet{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 10px;
+    line-height:28px;
+    margin-bottom: 10px;
+  }
+  .small-font-pallet{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    margin-top: 10px;
+    line-height:28px;
+    margin-bottom: 10px;
+  }
+
+  .registro-font-pallet{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-style: normal;
+    font-size: 41px;
+    margin-top: 10px;
+    line-height:75.5px;
+    margin-bottom: 10px;
+  }
+.margin-logo-pallet{
+  margin-top: 19px;
+  line-height:24px;
+}
